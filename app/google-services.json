@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390499533308",
+    "firebase_url": "https://order-system-a39bc.firebaseio.com",
+    "project_id": "order-system-a39bc",
+    "storage_bucket": "order-system-a39bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390499533308:android:5baabc54bd5184ccd0f279",
+        "android_client_info": {
+          "package_name": "com.bill.ordersystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390499533308-mloa5abq4vvgj5lq7tl4nohucib9lcnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bill.ordersystem",
+            "certificate_hash": "de76e891b7c8b86dee908e7ac6020621ff39a472"
+          }
+        },
+        {
+          "client_id": "390499533308-ipd8mejfr2n6raodj44sr2mvo1bnmbmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzb5azZ_QftPQnczOm5gEGO4VsU4eVgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390499533308-ipd8mejfr2n6raodj44sr2mvo1bnmbmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
